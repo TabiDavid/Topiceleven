@@ -44,4 +44,23 @@ body{
 
 .circle2:hover{
     background: salmon;
-    transform: rotate(360deg);
+    transform: rotate(360deg)
+}
+
+.circle3{
+    width: 100px;
+    padding: 50px 0;
+    line-height: 0;
+    margin: 68px auto;
+    background:red;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: ease-out 1s;
+}
+
+.circle3:hover{
+    background: salmon;
+    transform: rotate(360deg)
+
+}
